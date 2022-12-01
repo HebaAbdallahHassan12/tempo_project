@@ -1,0 +1,228 @@
+@media screen and (max-width:992px) {
+    .navbar-nav .nav-item{
+     display: flex;
+     justify-content: center;
+     background-color: black;
+    }
+    .home-text h1{
+font-size: 35px;
+    }
+    .home-text h2{
+        font-size: 20px;
+    }
+    .navbar-brand h1{
+        font-size: 25px;
+    }
+     .navbar{
+        padding: 15px 0px;
+    }
+}
+@media screen and (max-width:670px){
+    .home-text h1{
+        font-size: 25px;
+            }
+            .home-text h2{
+                font-size: 15px;
+                margin: 3px;
+            }
+            .home-text h3{
+                font-size: 15px;
+                margin: 3px;
+            }
+            .navbar-brand h1{
+                font-size: 20px;
+                margin: 3px;
+            }
+             .navbar{
+                padding: 15px 0px;
+            }
+            .home-text button{
+                padding: 6px 15px;
+                letter-spacing: 0;
+            }
+        }
+@media screen and (max-width:350px){
+    .home-text h1{
+        font-size: 20px;
+            }
+            .home-text h2{
+                font-size: 14px;
+                margin: 0px;
+            }
+            .home-text h3{
+                font-size: 12px;
+                margin: 0px;
+            }
+            .navbar-brand h1{
+                font-size: 15px;
+                margin: 0px;
+                font-weight: 900;
+            }
+             .navbar{
+                padding: 25px 0px;
+            }
+            .home-text button{
+                padding: 4px 10px;
+                letter-spacing: 0;
+            }
+            .navbar-brand h1{
+                font-size: 20px;
+            }
+            .navbar-toggler-icon i {
+                color: #fff;
+                font-size: 20px;
+              }
+        }
+        @media screen and (max-width:260px){
+            .navbar-brand h1{
+                font-size: 12px;
+                margin: 0px;
+            }
+            .home-text h1{
+                font-size: 15px;
+                    }
+                    .home-text h2{
+                        font-size: 12px;
+                        margin: 0px;
+                    }
+                    .home-text h3{
+                        font-size: 10px;
+                        margin: 0px;
+                    }
+                    
+                    
+                    .home-text button{
+                        padding: 3px 6px;
+                        letter-spacing: 0;
+                    }
+                    
+                    .navbar-toggler-icon i {
+                        color: #fff;
+                        font-size: 14px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                      }
+                }
+@media  screen and (max-width:576px) {
+    .about-text2 a{
+        display: flex;
+        justify-content: center;    
+    }
+     .fa-ul li{
+        font-size: 14px;
+    }
+    .call{
+        height: 50vh;
+    }
+    .lay-call{
+        height: 50vh;
+    }
+    .cat p{
+        font-size: 10px;
+    }
+    .cat h3{
+        font-size: 10px;
+    }
+}
+@media  screen and (max-width:445px) {
+    .about-title h3,.services-title h3,.port-title h3,.price-title h3,.Question-title h3,.team-title h3,.Contact-title h3{
+        font-size: 15px;
+      
+    }
+    .about-title p,.services-title p,.port-title p,.price-title p,.team-title p,.Contact-title p{
+        font-size: 13px;
+    }
+   .about-text1 p,.about-text2 p{
+    font-size: 13px;
+    margin-top: 0;
+   }
+    @media screen and (max-width:245px) {
+        .about-title h3,.services-title h3,.port-title h3,.price-title h3,.Question-title h3,.team-title h3,.Contact-title h3{
+            font-size: 10px;
+          
+        }  
+        .about-title p,.services-title p,.port-title p,.price-title p,.team-title p,.Contact-title p{
+            font-size: 10px;
+        }
+        .about-text1 p,.about-text2 p{
+            font-size: 10px;
+            padding-top: 0;
+           }
+          
+        .fa-ul li{
+            font-size: 10px;
+        }
+        .about-text2 a button{
+            
+            padding: 8px 30px;
+            font-size: 10px;   
+        }
+    }  
+}  
+    @media screen and (max-width:576px){
+        .cat button{
+padding: 5px 10px;
+margin-bottom: 2px;
+        }
+        .call{
+            height:40vh;
+            padding: 0;
+            margin: 0;
+        }
+        .lay-call{
+            height:40vh;
+            padding: 0;
+            margin: 0;
+        }
+        .cat p{
+            font-size: 10px;
+            padding: 0;
+        }
+        .cat h3{
+            font-size: 10px;
+            padding: 0;
+        }
+         /* footer */
+         form .subscribe{
+            position: absolute;
+            top: 0;
+            right:0px;
+            bottom: 0;
+            border: 0;
+    }
+    .contact-text h4{
+        font-size: 15px;
+    }
+    .contact-text p{
+        font-size: 12px;
+    }
+}
+    @media screen and (max-width:768px) {
+                    .cat p{
+                        font-size: 15px;
+                    }
+                    .cat h3{
+                        font-size: 18px;
+                    }
+                   #Home{ 
+                    height: 60vh;
+
+                   }
+                  
+                }
+                @media screen and (max-width:992px){
+                    .call{
+                        height:45vh;
+                        padding: 0;
+                        margin: 0;
+                    }
+                    .lay-call{
+                        height:45vh;
+                        padding: 0;
+                        margin: 0;
+                    }
+                }
+
+    
+    
